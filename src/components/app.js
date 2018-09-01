@@ -13,12 +13,12 @@ export default () => {
 const students = [
     {
         name: 'Ryan',
-        course: 'React Intro',
+        course: 'Learning React',
         grade: 83
     }, 
     {
         name: 'Thelma',
-        course: 'Being Lame',
+        course: 'Introduction to Being Lame 101',
         grade: 100
     },
     {
