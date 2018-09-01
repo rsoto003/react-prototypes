@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-
-
 const user = {
-    name: 'ryan',
+    name: 'Ryan',
     luckyNumber: luckyNumber()
 }
 
