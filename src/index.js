@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/app'
-import Table from './components/table'
+import App from './components/app';
 
 ReactDOM.render(
     <App/>,
