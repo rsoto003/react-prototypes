@@ -14,16 +14,16 @@ const students = [
     {
         name: 'Ryan',
         course: 'Learning React',
-        grade: 83
+        grade: 83,
     }, 
     {
         name: 'Thelma',
         course: 'Introduction to Being Lame 101',
-        grade: 100
+        grade: 100,
     },
     {
         name: 'Kenny',
         course: 'Being Adorable AF',
-        grade: 100
+        grade: 100,
     }
 ];
